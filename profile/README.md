@@ -1,5 +1,5 @@
 # SafeOn
-**The Anomaly Detection System for Smart Home IoT Security
+> The Anomaly Detection System for Smart Home IoT Security
 
 ---
 
